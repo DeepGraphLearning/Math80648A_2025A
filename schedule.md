@@ -107,28 +107,29 @@ schedule:
       - name: Survey of Pre-trained LMs
         url: https://arxiv.org/pdf/2302.09419
     homeworks:
-      - name: Huggingface Sentence Classification (Kaggle)
-        url: https://www.kaggle.com/competitions/sentence-classification-competition/overview
+#      - name: Huggingface Sentence Classification (Kaggle)
+      - name: TBD
+#        url: https://www.kaggle.com/competitions/sentence-classification-competition/overview
   - date: Nov.<br>04, 01
     topics:
       - name: Large Language Models II - Prompt Tuning
 #        url: https://www.dropbox.com/s/gcd1bu7bxd5gigm/Week8-DL4NLP-part3.pptx?dl=0
     readings:
       - name: Chain-of-Thought
-        url: https://arxiv.org/abs/2108.12114
-      - name: StAR
-        url: https://arxiv.org/abs/2107.06786
-      - name: Prompt Tuning survey
-        url: https://arxiv.org/abs/2107.06855
+        url: https://arxiv.org/pdf/2201.11903
+      - name: Self Consistency
+        url: https://arxiv.org/pdf/2203.11171
+      - name: ReAct
+        url: https://arxiv.org/pdf/2210.03629
   - date: Nov.<br>11, 08
     topics:
       - name: Generative Models I
 #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
     readings:
       - name: GAN
-        url: https://arxiv.org/abs/1406.2661
+#        url: https://arxiv.org/abs/1406.2661
       - name: VAE
-        url: https://arxiv.org/abs/1312.6114
+#        url: https://arxiv.org/abs/1312.6114
     presentations:
       - name: TBD
   - date: Nov.<br>18, 15
@@ -137,18 +138,24 @@ schedule:
 #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
     readings:
       - name: CLIP
-        url: https://arxiv.org/abs/2103.00020
+#        url: https://arxiv.org/abs/2103.00020
       - name: Sora
-        url: https://arxiv.org/abs/2201.00123
+#        url: https://arxiv.org/abs/2201.00123
   - date: Nov.<br>25, 22
     topics:
-      - name: Recommender Systems
+      - name: Graph Representation Learning
 #        url: https://www.dropbox.com/s/3e09x5i9wyn8q3c/Week9-Graph-part1.pdf?dl=0
     readings:
-      - name: Bayesian Personalized Ranking
-        url: https://arxiv.org/abs/1205.2618
-      - name: Factorization Machines
-        url: https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
+      - name: DeepWalk
+        url: https://arxiv.org/pdf/1403.6652
+      - name: LINE
+        url: https://arxiv.org/pdf/1503.03578
+      - name: GCN
+        url: https://arxiv.org/pdf/1609.02907
+#      - name: Bayesian Personalized Ranking
+#        url: https://arxiv.org/abs/1205.2618
+#      - name: Factorization Machines
+#        url: https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
 ---
 
 # Schedule for In-class Presentations
