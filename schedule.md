@@ -159,12 +159,11 @@ schedule:
 ---
 
 # Schedule for In-class Presentations
-
 <table>
   <tr>
     <th>Date</th>
     <th>Topic</th>
-    <th>Suggested Readings</th>
+    <th style="width: 45%;">Suggested Readings</th>
     <th>Reference</th>
     <th>Homework</th>
   </tr>
@@ -176,7 +175,7 @@ schedule:
         {% include href item=topic %}<br>
       {% endfor %}
       </td>
-      <td>
+      <td style="width: 45%;">
       {% for reading in week.readings %}
         {% include href item=reading %}<br>
       {% endfor %}
