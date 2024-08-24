@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MATH 80600A - Machine Learning II<br>Deep Learning and Applications
+title: MATH 60630A - Machine Learning II<br>Deep Learning and Applications
 permalink: /
 
 team:
@@ -24,7 +24,7 @@ team:
 - **Instructor**: [Jian Tang]
 - **Trimester**: Winter 2024
 - **When**:
-  - **Class 1**: 8:30 - 11:30 AM EST, Monday
+  - **Class 1**: 3:30 - 6:30 PM EST, Monday
   - **Class 2**: 3:30 - 6:30 PM EST, Friday
 - **Where**:
   - Zoom
@@ -65,11 +65,11 @@ team:
 
 - **Homework**: 20%
 - **Class Presentations**: 10%
-- **Course Projects**: 40%
+- **Course Projects**: 30%
     - **Research Proposal**: 5%
     - **Poster**: 10%
-    - **Report**: 25%
-- **Final Exam**: 30%
+    - **Report**: 15%
+- **Final Exam**: 40%
 
 # Staff
 

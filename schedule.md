@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MATH 80600A - Machine Learning II<br>Deep Learning and Applications
+title: MATH 60630A - Machine Learning II<br>Deep Learning and Applications
 permalink: /schedule
 
 schedule:
@@ -98,7 +98,7 @@ schedule:
       - name: Instruction
         url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
       - name: Kaggle
-        url: https://www.kaggle.com/c/math80600aw21
+        url: https://www.kaggle.com/c/math60630aw21
   - date: Oct.<br>28, 25
     topics:
       - name: Large Language Models I

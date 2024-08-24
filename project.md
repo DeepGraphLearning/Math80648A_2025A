@@ -1,10 +1,10 @@
 ---
 layout: default
-title: MATH 80600A - Machine Learning II<br>Deep Learning and Applications
+title: MATH 60630A Machine Learning II <br> Deep Learning
 permalink: /project
 ---
 
-# Course Project (To be Announced Later)
+# Course Project to be Announced Later
 
 [//]: # (The goal of the course project is to apply deep learning techniques learned in class &#40;it is fine if you use the techniques not introduced in class&#41; to solve real-world problems or develop new deep learning techniques. You are expected to work in teams and learn to collaborate with your teammates. Each group should make a poster in the final class and participate in the poster session to present your results and communicate with other teams. A report should also be submitted at the end of the course.)
 
