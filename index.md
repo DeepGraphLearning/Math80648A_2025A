@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MATH 60630A - Machine Learning II<br>Deep Learning and Applications
+title: MATH 60630A - Machine Learning II<br>Deep Learning
 permalink: /
 
 team:
@@ -25,7 +25,7 @@ team:
 - **Trimester**: Winter 2024
 - **When**:
   - **Class 1**: 3:30 - 6:30 PM EST, Monday
-  - **Class 2**: 3:30 - 6:30 PM EST, Friday
+  - **Class 2**: 8:30 - 11:30 AM EST, Friday
 - **Where**:
   - Zoom
 - **Office hour**:
