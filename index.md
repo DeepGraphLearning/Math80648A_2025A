@@ -8,12 +8,12 @@ team:
     url: https://jian-tang.com/
     title: Instructor
     image: assets/images/jian_tang.jpg
-  - name: Shengchao Liu
-    url: https://chao1224.github.io/
+  - name: Jianan Zhao
+    url: https://andyjzhao.github.io/
     title: Teaching Assistant
     image: assets/images/shengchao_liu.jpeg
-  - name: Louis-Pascal Xhonneux
-    url: https://sites.google.com/a/mila.quebec/louis-pascal-xhonneux/home
+  - name: Xinyu Yuan
+    url: https://mila.quebec/en/directory/xinyu-yuan
     title: Teaching Assistant
     image: assets/images/louis_pascal_xhonneux.jpeg
 ---
@@ -22,16 +22,16 @@ team:
 # Information
 
 - **Instructor**: [Jian Tang]
-- **Trimester**: Winter 2021
+- **Trimester**: Winter 2024
 - **When**:
-  - **Class 1**: 8:30 - 11:30 AM EST, Thursday
+  - **Class 1**: 8:30 - 11:30 AM EST, Monday
   - **Class 2**: 3:30 - 6:30 PM EST, Friday
 - **Where**:
   - Zoom
 - **Office hour**:
   - Jian Tang (Instructor): 2:00 - 3:00 PM EST, Friday
-  - Shengchao Liu (TA): 10:00 - 11:00 AM EST, Friday
-  - Louis-Pascal Xhonneux (TA): 10:00 - 11:00 AM EST, Friday
+  - Jianan Zhao (TA): 10:00 - 11:00 AM EST, Friday
+  - Xinyu Yuan (TA): 10:00 - 11:00 AM EST, Friday
 
 [Jian Tang]: https://jian-tang.com
 [Quebecor]: https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/quebecor.html
