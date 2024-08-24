@@ -46,10 +46,11 @@ schedule:
       - name: Dive into Deep Learning
         url: https://github.com/dsgiitr/d2l-pytorch
     homeworks:
-      - name: Instruction
-        url: https://www.dropbox.com/s/7s19xya7yck4nul/HWK1.pdf?dl=0
-      - name: Colab
-        url: https://colab.research.google.com/drive/1FjRjNlBqPVz7SrEPvqrL10Q76NeHhvJW?usp=sharing
+      - name: HW2 (to be announced)
+#      - name: Instruction
+#        url: https://www.dropbox.com/s/7s19xya7yck4nul/HWK1.pdf?dl=0
+#      - name: Colab
+#        url: https://colab.research.google.com/drive/1FjRjNlBqPVz7SrEPvqrL10Q76NeHhvJW?usp=sharing
   - date: Sep.<br>23, 20
     topics:
       - name: Convolutional Neural Networks & Recurrent Neural Networks
@@ -82,23 +83,18 @@ schedule:
       - name: Attention, Transformers
         url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
-      - name: Attention Seq2Seq
-        url: https://arxiv.org/abs/1409.0473
       - name: Transformer
         url: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
-    presentations:
-      - name: Tree LSTM
-        url: https://arxiv.org/abs/1503.00075
-      - name: CNN Multi-task Learning
-        url: https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf
   - date: Oct.<br>16, 11
     topics:
       - name: Introduction to Huggingface & Kaggle Challenge (Notebook)
     homeworks:
-      - name: Instruction
-        url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
-      - name: Kaggle
-        url: https://www.kaggle.com/c/math60630aw21
+      - name: HW2 (to be announced)
+#        url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
+#      - name: Instruction
+#        url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
+#      - name: Kaggle
+#        url: https://www.kaggle.com/c/math60630aw21
   - date: Oct.<br>28, 25
     topics:
       - name: Large Language Models I
