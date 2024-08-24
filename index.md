@@ -39,10 +39,19 @@ team:
 
 # Objectives
 
-- Understand machine learning basics 
-- Understand deep learning basics such as feedforward neural networks, convolutional neural networks, and recurrent neural networks
-- Know several advanced topics in deep learning, including applications in natural language understanding, graph representation learning, recommender systems, and deep generative models
-- Learn to use PyTorch for applying deep learning techniques to solve real-world problems
+- Develop a basic understanding of machine learning principles.
+- Learn the fundamentals of deep learning, including feedforward neural networks, convolutional neural networks, recurrent neural networks, and transformers.
+- Explore advanced topics in deep learning, such as natural language understanding, graph representation learning, deep generative models.
+- Gain experience using PyTorch to apply deep learning techniques to solve practical problems.
+
+
+[//]: # (- Understand machine learning basics )
+
+[//]: # (- Understand deep learning basics such as feedforward neural networks, convolutional neural networks, and recurrent neural networks)
+
+[//]: # (- Know several advanced topics in deep learning, including applications in natural language understanding, graph representation learning, recommender systems, and deep generative models)
+
+[//]: # (- Learn to use PyTorch for applying deep learning techniques to solve real-world problems)
 
 # Prerequisites
 
