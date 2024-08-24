@@ -7,11 +7,11 @@ schedule:
   - date: Aug.<br>26, 30
     topics:
     - name: Introduction
-      url: https://www.dropbox.com/s/hbrmctcap9ebo60/Week1-Intro.pdf?dl=0
+#      url: https://www.dropbox.com/s/hbrmctcap9ebo60/Week1-Intro.pdf?dl=0
     - name: Mathematics
-      url: https://www.dropbox.com/s/o09puw2vf59uxj5/Week1-Maths.pdf?dl=0
+#      url: https://www.dropbox.com/s/o09puw2vf59uxj5/Week1-Maths.pdf?dl=0
     - name: Machine Learning Basics
-      url: https://www.dropbox.com/s/5ntgm9t4ykeq1b7/Week1-ML.pdf?dl=0
+#      url: https://www.dropbox.com/s/5ntgm9t4ykeq1b7/Week1-ML.pdf?dl=0
     readings:
       - name: Deep Learning Book
       - name: Chap. 2
@@ -23,7 +23,7 @@ schedule:
   - date: Sep.<br>9, 6
     topics:
     - name: Feedforward Neural Networks & Optimization Tricks
-      url: https://www.dropbox.com/s/zv4920r75ek7u4u/Week2-FFN%26Regularization.pdf?dl=0
+#      url: https://www.dropbox.com/s/zv4920r75ek7u4u/Week2-FFN%26Regularization.pdf?dl=0
     readings:
       - name: Deep Learning Book
       - name: Chap. 6
@@ -35,9 +35,9 @@ schedule:
   - date: Sep.<br>16, 13
     topics:
       - name: PyTorch part 1
-        url: https://www.dropbox.com/s/xpd4fjisk3n08vx/Deep%20Learning%20Frameworks%20part%201.pdf?dl=0
+#        url: https://www.dropbox.com/s/xpd4fjisk3n08vx/Deep%20Learning%20Frameworks%20part%201.pdf?dl=0
       - name: PyTorch Part 2
-        url: https://www.dropbox.com/s/2mzbdnfgah9yimw/Deep%20Learning%20Frameworks%20part%202.pdf?dl=0
+#        url: https://www.dropbox.com/s/2mzbdnfgah9yimw/Deep%20Learning%20Frameworks%20part%202.pdf?dl=0
     readings:
       - name: Python Numpy Tutorial
         url: http://cs231n.github.io/python-numpy-tutorial/
@@ -54,7 +54,7 @@ schedule:
   - date: Sep.<br>23, 20
     topics:
       - name: Convolutional Neural Networks & Recurrent Neural Networks
-        url: https://www.dropbox.com/s/9vnrcjo4ykhdj9l/Week4-CNN%26RNN.pdf?dl=0
+#        url: https://www.dropbox.com/s/9vnrcjo4ykhdj9l/Week4-CNN%26RNN.pdf?dl=0
     readings:
       - name: Deep Learning Book
       - name: Chap. 9
@@ -71,7 +71,7 @@ schedule:
   - date: Oct.<br>1, 27
     topics:
       - name: NLP Basis
-        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
+#        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
       - name: Word2Vec
         url: https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
@@ -81,7 +81,7 @@ schedule:
   - date: Oct.<br>7, 4
     topics:
       - name: Attention, Transformers
-        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
+#        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
       - name: Transformer
         url: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
@@ -98,21 +98,21 @@ schedule:
   - date: Oct.<br>28, 25
     topics:
       - name: Large Language Models I
-        url: https://www.dropbox.com/s/366364m5gmu6gkd/Week7-DL4NLP-part2.pdf?dl=0
+#        url: https://www.dropbox.com/s/366364m5gmu6gkd/Week7-DL4NLP-part2.pdf?dl=0
     readings:
+      - name: BERT
+        url: https://arxiv.org/pdf/1810.04805
       - name: GPT-3
         url: https://arxiv.org/abs/2005.14165
-      - name: ChatGPT
-        url: https://arxiv.org/abs/2107.06855
-      - name: LLaMA
-        url: https://arxiv.org/abs/2203.15556
+      - name: Survey of Pre-trained LMs
+        url: https://arxiv.org/pdf/2302.09419
     homeworks:
       - name: Huggingface Sentence Classification (Kaggle)
         url: https://www.kaggle.com/competitions/sentence-classification-competition/overview
   - date: Nov.<br>04, 01
     topics:
       - name: Large Language Models II - Prompt Tuning
-        url: https://www.dropbox.com/s/gcd1bu7bxd5gigm/Week8-DL4NLP-part3.pptx?dl=0
+#        url: https://www.dropbox.com/s/gcd1bu7bxd5gigm/Week8-DL4NLP-part3.pptx?dl=0
     readings:
       - name: Chain-of-Thought
         url: https://arxiv.org/abs/2108.12114
@@ -123,7 +123,7 @@ schedule:
   - date: Nov.<br>11, 08
     topics:
       - name: Generative Models I
-        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
+#        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
     readings:
       - name: GAN
         url: https://arxiv.org/abs/1406.2661
@@ -134,7 +134,7 @@ schedule:
   - date: Nov.<br>18, 15
     topics:
       - name: Diffusion, text-to-image generation
-        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
+#        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
     readings:
       - name: CLIP
         url: https://arxiv.org/abs/2103.00020
@@ -143,7 +143,7 @@ schedule:
   - date: Nov.<br>25, 22
     topics:
       - name: Recommender Systems
-        url: https://www.dropbox.com/s/3e09x5i9wyn8q3c/Week9-Graph-part1.pdf?dl=0
+#        url: https://www.dropbox.com/s/3e09x5i9wyn8q3c/Week9-Graph-part1.pdf?dl=0
     readings:
       - name: Bayesian Personalized Ranking
         url: https://arxiv.org/abs/1205.2618
