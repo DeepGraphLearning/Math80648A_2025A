@@ -11,11 +11,11 @@ team:
   - name: Jianan Zhao
     url: https://andyjzhao.github.io/
     title: Teaching Assistant
-    image: assets/images/shengchao_liu.jpeg
+    image: assets/images/jianan_zhao.jpeg
   - name: Xinyu Yuan
     url: https://mila.quebec/en/directory/xinyu-yuan
     title: Teaching Assistant
-    image: assets/images/louis_pascal_xhonneux.jpeg
+    image: assets/images/xinyu_yuan.jpeg
 ---
 
 
@@ -30,7 +30,7 @@ team:
   - Zoom
 - **Office hour**:
   - Jian Tang (Instructor): 2:00 - 3:00 PM EST, Friday
-  - Jianan Zhao (TA): 10:00 - 11:00 AM EST, Friday
+  - Jianan Zhao (TA): 10:00 - 11:00 AM EST, Thursday
   - Xinyu Yuan (TA): 10:00 - 11:00 AM EST, Friday
 
 [Jian Tang]: https://jian-tang.com
@@ -53,13 +53,6 @@ team:
 
 [//]: # (- Learn to use PyTorch for applying deep learning techniques to solve real-world problems)
 
-# Prerequisites
-
-- Linear algebra
-- Python programming language
-- One of following courses
-  - Machine Learning I: Large-scale machine learning and decision making
-  - Data Mining
 
 # Evaluation
 
