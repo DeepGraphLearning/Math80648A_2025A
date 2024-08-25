@@ -32,10 +32,11 @@ team:
   - Jian Tang (Instructor): 2:00 - 3:00 PM EST, Friday
   - Jianan Zhao (TA): 10:00 - 11:00 AM EST, Thursday
   - Xinyu Yuan (TA): 10:00 - 11:00 AM EST, Friday
+- **Discord**:
+  - Join the discord for course discussion via [this link](https://discord.gg/DKf2FfHk)
 
 [Jian Tang]: https://jian-tang.com
-[Quebecor]: https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/quebecor.html
-[BDC]: https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/bdc.html
+
 
 # Objectives
 
