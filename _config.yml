@@ -1,9 +1,9 @@
-title: "MATH 60630A - Machine Learning II : Deep Learning"
+title: "MATH 80648A - Machine Learning II : Deep Learning"
 description: HEC Montréal
 google_analytics:
 theme: jekyll-theme-cayman
 
 
-url: "https://andyjzhao.github.io"
-baseurl: "/Math60630A_2024A"
+url: "https://deepgraphlearning.github.io"
+baseurl: "/Math80648A_2025A"
 #baseurl: "/"
