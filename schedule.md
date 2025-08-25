@@ -64,10 +64,9 @@ schedule:
     presentations:
       - name: ResNet
         url: http://arxiv.org/abs/1512.03385
-      - name: GRU
-        url: https://arxiv.org/abs/1412.3555
-      - name: DenseNet
-        url: https://arxiv.org/abs/1608.06993
+      - name: ViT
+        url: https://arxiv.org/abs/2010.11929
+      
   - date: Sep.<br>29
     topics:
       - name: Word Representation Learning
@@ -78,6 +77,8 @@ schedule:
     presentations:
       - name: SGNS
         url: https://papers.nips.cc/paper/2014/file/feab05aa91085b7a8012516bc3533958-Paper.pdf
+      - name: GPT-1
+        url: https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
   - date: Oct.<br>6
     topics:
       - name: Attention, Transformers
@@ -85,6 +86,9 @@ schedule:
     readings:
       - name: Transformer
         url: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
+    presentations:
+      - name: RoBERTa
+        url: https://arxiv.org/abs/1907.11692
   - date: Oct.<br>15
     topics:
       - name: No class (Project proposal)
@@ -106,9 +110,16 @@ schedule:
         url: https://arxiv.org/abs/2005.14165
       - name: Survey of Pre-trained LMs
         url: https://arxiv.org/pdf/2302.09419
-    homeworks:
+    presentations:
+      - name: OPT
+        url: https://arxiv.org/abs/2205.01068
+      - name: PaLM
+        url: https://arxiv.org/abs/2204.02311
+      - name: LLaMA
+        url: https://arxiv.org/abs/2302.13971
+    #homeworks:
 #      - name: Huggingface Sentence Classification (Kaggle)
-      - name: TBD
+    #  - name: TBD
 #        url: https://www.kaggle.com/competitions/sentence-classification-competition/overview
   - date: Nov.<br>10
     topics:
@@ -121,17 +132,29 @@ schedule:
         url: https://arxiv.org/pdf/2203.11171
       - name: ReAct
         url: https://arxiv.org/pdf/2210.03629
+    presentations:
+      - name: Prefix-Tuning
+        url: https://arxiv.org/abs/2101.00190
+      - name: Promtp Tuning
+        url: https://arxiv.org/abs/2104.08691
+      - name: LoRA
+        url: https://arxiv.org/abs/2106.09685
+      - name: Instruction Tuning
+        url: https://arxiv.org/html/2308.10792v5
   - date: Nov.<br>17
     topics:
       - name: Generative Models
 #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
     readings:
       - name: GAN
-#        url: https://arxiv.org/abs/1406.2661
+        url: https://arxiv.org/abs/1406.2661
       - name: VAE
-#        url: https://arxiv.org/abs/1312.6114
+        url: https://arxiv.org/abs/1312.6114
     presentations:
-      - name: TBD
+      - name: DDPM
+        url: https://arxiv.org/abs/2006.11239
+      - name: Stable diffusion
+        url: https://arxiv.org/abs/2112.10752
   #- date: Nov.<br>24
   #  topics:
   #    - name: Diffusion, text-to-image generation
@@ -156,6 +179,9 @@ schedule:
 #        url: https://arxiv.org/abs/1205.2618
 #      - name: Factorization Machines
 #        url: https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
+    presentations:
+      - name: Open Graph Benchmark
+        url: https://arxiv.org/abs/2005.00687
   - date: Dec.<br>1
     topics:
       - name: Poster Session
