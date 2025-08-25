@@ -6,12 +6,10 @@ permalink: /schedule
 schedule:
   - date: Aug.<br>25
     topics:
-    - name: Introduction
-#      url: https://www.dropbox.com/s/hbrmctcap9ebo60/Week1-Intro.pdf?dl=0
-    - name: Mathematics
-#      url: https://www.dropbox.com/s/o09puw2vf59uxj5/Week1-Maths.pdf?dl=0
-    - name: Machine Learning Basics
-#      url: https://www.dropbox.com/s/5ntgm9t4ykeq1b7/Week1-ML.pdf?dl=0
+    topics:
+      - name: Introduction [<a href="assets/slides/Week1-Intro-En.pdf">En</a>] [<a href="assets/slides/Week1-Intro-Fr.pdf">Fr</a>]
+      - name: Mathematics [<a href="assets/slides/Week1-Maths-En.pdf">En</a>] [<a href="assets/slides/Week1-Maths-Fr.pdf">Fr</a>]
+      - name: Machine Learning Basics [<a href="assets/slides/Week1-ML-En.pdf">En</a>] [<a href="assets/slides/Week1-ML-Fr.pdf">Fr</a>]
     readings:
       - name: Deep Learning Book
       - name: Chap. 2
