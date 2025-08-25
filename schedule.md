@@ -70,7 +70,7 @@ schedule:
         url: https://arxiv.org/abs/1608.06993
   - date: Sep.<br>29
     topics:
-      - name: NLP Basis
+      - name: Word Representation Learning
 #        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
       - name: Word2Vec
@@ -87,7 +87,7 @@ schedule:
         url: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
   - date: Oct.<br>15
     topics:
-      - name: Introduction to Huggingface & Kaggle Challenge (Notebook)
+      - name: No class (Project proposal)
     homeworks:
       - name: HW2 (to be announced)
 #        url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
@@ -123,7 +123,7 @@ schedule:
         url: https://arxiv.org/pdf/2210.03629
   - date: Nov.<br>17
     topics:
-      - name: Generative Models I
+      - name: Generative Models
 #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
     readings:
       - name: GAN
@@ -132,16 +132,16 @@ schedule:
 #        url: https://arxiv.org/abs/1312.6114
     presentations:
       - name: TBD
+  #- date: Nov.<br>24
+  #  topics:
+  #    - name: Diffusion, text-to-image generation
+# #       url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
+  #  readings:
+  #    - name: CLIP
+# #       url: https://arxiv.org/abs/2103.00020
+  #    - name: Sora
+# #       url: https://arxiv.org/abs/2201.00123
   - date: Nov.<br>24
-    topics:
-      - name: Diffusion, text-to-image generation
-#        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
-    readings:
-      - name: CLIP
-#        url: https://arxiv.org/abs/2103.00020
-      - name: Sora
-#        url: https://arxiv.org/abs/2201.00123
-  - date: Dec.<br>1
     topics:
       - name: Graph Representation Learning
 #        url: https://www.dropbox.com/s/3e09x5i9wyn8q3c/Week9-Graph-part1.pdf?dl=0
@@ -156,6 +156,11 @@ schedule:
 #        url: https://arxiv.org/abs/1205.2618
 #      - name: Factorization Machines
 #        url: https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
+  - date: Dec.<br>1
+    topics:
+      - name: Poster Session
+#   
+
 ---
 
 # Schedule for In-class Presentations
