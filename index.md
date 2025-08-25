@@ -27,7 +27,7 @@ team:
   - **Class**: 3:30 - 6:30 PM EST, Monday
   - **Exception**: 3:30 - 6:30 PM EST, Wednesday on Oct.15
 - **Where**:
-  - Zoom
+  - C-Ste-Cath, Caracas
 - **Office hour**:
   - Jian Tang (Instructor): TBD
   - Zhihao Zhan (TA): TBD
