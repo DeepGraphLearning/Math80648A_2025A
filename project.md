@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MATH 60630A Machine Learning II<br>Deep Learning
+title: MATH 80648A Machine Learning II<br>Deep Learning
 permalink: /project
 ---
 
@@ -47,15 +47,14 @@ permalink: /project
 [//]: # (## Schedule)
 
 [//]: # ()
-[//]: # (- **Proposal due**: Feb. 28th)
+[//]: # (- **Proposal due**: TBD)
 
 [//]: # (- **Poster due**:)
 
-[//]: # (    - J1: Apr. 8th)
+[//]: # (    - J1: TBD)
 
-[//]: # (    - J2: Apr. 16th)
 
-[//]: # (- **Final report due**: Apr. 25th)
+[//]: # (- **Final report due**: TBD)
 
 [//]: # (    - Note: 3 points will be deducted for late submission.)
 
@@ -63,7 +62,7 @@ permalink: /project
 [//]: # (## Groups for Course Projects)
 
 [//]: # ()
-[//]: # (The groups for course projects can be found at the Google sheet for [J1]&#40;https://docs.google.com/spreadsheets/d/1K3P8F2C3-vh0MSxoQ90IbeFY_gPegZ6_hM1So0p9UEU/edit?pli=1#gid=0&#41; and [J2]&#40;https://docs.google.com/spreadsheets/d/1SaZE6dXDCf_uZBDEK0TAdIAUdsdMbqnnWu8ujJzHwrk/edit#gid=0&#41;.)
+[//]: # (The groups for course projects can be found at the Google sheet for TBD.)
 
 [//]: # ()
 [//]: # ()

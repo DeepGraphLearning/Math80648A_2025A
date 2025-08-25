@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MATH 60630A - Machine Learning II<br>Deep Learning
+title: MATH 80648A - Machine Learning II<br>Deep Learning
 permalink: /
 
 team:
@@ -8,10 +8,10 @@ team:
     url: https://jian-tang.com/
     title: Instructor
     image: assets/images/jian_tang.jpg
-  - name: Jianan Zhao
-    url: https://andyjzhao.github.io/
+  - name: Zhihao Zhan
+    url: https://mila.quebec/en/directory/zhihao-zhan
     title: Teaching Assistant
-    image: assets/images/jianan_zhao.jpeg
+    image: assets/images/zhihao_zhan.jpeg
   - name: Xinyu Yuan
     url: https://mila.quebec/en/directory/xinyu-yuan
     title: Teaching Assistant
@@ -22,10 +22,10 @@ team:
 # Information
 
 - **Instructor**: [Jian Tang]
-- **Trimester**: Winter 2024
+- **Trimester**: Fall 2025
 - **When**:
-  - **Class 1**: 3:30 - 6:30 PM EST, Monday
-  - **Class 2**: 8:30 - 11:30 AM EST, Friday
+  - **Class**: 3:30 - 6:30 PM EST, Monday
+  - **Exception**: 3:30 - 6:30 PM EST, Wednesday on Oct.15
 - **Where**:
   - Zoom
 - **Office hour**:
@@ -33,7 +33,7 @@ team:
   - Jianan Zhao (TA): 10:00 - 11:00 AM EST, Thursday
   - Xinyu Yuan (TA): 10:00 - 11:00 AM EST, Friday
 - **Discord**:
-  - Join the discord for course discussion via [this link](https://discord.gg/DKf2FfHk)
+  - Join the discord for course discussion via [this link]()
 
 [Jian Tang]: https://jian-tang.com
 

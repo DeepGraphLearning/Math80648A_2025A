@@ -1,10 +1,10 @@
 ---
 layout: default
-title: MATH 60630A - Machine Learning II<br>Deep Learning and Applications
+title: MATH 80648A - Machine Learning II<br>Deep Learning and Applications
 permalink: /schedule
 
 schedule:
-  - date: Aug.<br>26, 30
+  - date: Aug.<br>25
     topics:
     - name: Introduction
 #      url: https://www.dropbox.com/s/hbrmctcap9ebo60/Week1-Intro.pdf?dl=0
@@ -20,7 +20,7 @@ schedule:
         url: http://www.deeplearningbook.org/contents/prob.html
       - name: Chap. 5
         url: http://www.deeplearningbook.org/contents/ml.html
-  - date: Sep.<br>9, 6
+  - date: Sep.<br>8
     topics:
     - name: Feedforward Neural Networks & Optimization Tricks
 #      url: https://www.dropbox.com/s/zv4920r75ek7u4u/Week2-FFN%26Regularization.pdf?dl=0
@@ -32,7 +32,7 @@ schedule:
         url: http://www.deeplearningbook.org/contents/regularization.html
       - name: Chap. 8
         url: http://www.deeplearningbook.org/contents/optimization.html
-  - date: Sep.<br>16, 13
+  - date: Sep.<br>15
     topics:
       - name: PyTorch part 1
 #        url: https://www.dropbox.com/s/xpd4fjisk3n08vx/Deep%20Learning%20Frameworks%20part%201.pdf?dl=0
@@ -51,7 +51,7 @@ schedule:
 #        url: https://www.dropbox.com/s/7s19xya7yck4nul/HWK1.pdf?dl=0
 #      - name: Colab
 #        url: https://colab.research.google.com/drive/1FjRjNlBqPVz7SrEPvqrL10Q76NeHhvJW?usp=sharing
-  - date: Sep.<br>23, 20
+  - date: Sep.<br>22
     topics:
       - name: Convolutional Neural Networks & Recurrent Neural Networks
 #        url: https://www.dropbox.com/s/9vnrcjo4ykhdj9l/Week4-CNN%26RNN.pdf?dl=0
@@ -68,7 +68,7 @@ schedule:
         url: https://arxiv.org/abs/1412.3555
       - name: DenseNet
         url: https://arxiv.org/abs/1608.06993
-  - date: Oct.<br>1, 27
+  - date: Sep.<br>29
     topics:
       - name: NLP Basis
 #        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
@@ -78,14 +78,14 @@ schedule:
     presentations:
       - name: SGNS
         url: https://papers.nips.cc/paper/2014/file/feab05aa91085b7a8012516bc3533958-Paper.pdf
-  - date: Oct.<br>7, 4
+  - date: Oct.<br>6
     topics:
       - name: Attention, Transformers
 #        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
       - name: Transformer
         url: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
-  - date: Oct.<br>16, 11
+  - date: Oct.<br>15
     topics:
       - name: Introduction to Huggingface & Kaggle Challenge (Notebook)
     homeworks:
@@ -95,7 +95,7 @@ schedule:
 #        url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
 #      - name: Kaggle
 #        url: https://www.kaggle.com/c/math60630aw21
-  - date: Oct.<br>28, 25
+  - date: Nov.<br>3
     topics:
       - name: Large Language Models I
 #        url: https://www.dropbox.com/s/366364m5gmu6gkd/Week7-DL4NLP-part2.pdf?dl=0
@@ -110,7 +110,7 @@ schedule:
 #      - name: Huggingface Sentence Classification (Kaggle)
       - name: TBD
 #        url: https://www.kaggle.com/competitions/sentence-classification-competition/overview
-  - date: Nov.<br>04, 01
+  - date: Nov.<br>10
     topics:
       - name: Large Language Models II - Prompt Tuning
 #        url: https://www.dropbox.com/s/gcd1bu7bxd5gigm/Week8-DL4NLP-part3.pptx?dl=0
@@ -121,7 +121,7 @@ schedule:
         url: https://arxiv.org/pdf/2203.11171
       - name: ReAct
         url: https://arxiv.org/pdf/2210.03629
-  - date: Nov.<br>11, 08
+  - date: Nov.<br>17
     topics:
       - name: Generative Models I
 #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
@@ -132,7 +132,7 @@ schedule:
 #        url: https://arxiv.org/abs/1312.6114
     presentations:
       - name: TBD
-  - date: Nov.<br>18, 15
+  - date: Nov.<br>24
     topics:
       - name: Diffusion, text-to-image generation
 #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
@@ -141,7 +141,7 @@ schedule:
 #        url: https://arxiv.org/abs/2103.00020
       - name: Sora
 #        url: https://arxiv.org/abs/2201.00123
-  - date: Nov.<br>25, 22
+  - date: Dec.<br>1
     topics:
       - name: Graph Representation Learning
 #        url: https://www.dropbox.com/s/3e09x5i9wyn8q3c/Week9-Graph-part1.pdf?dl=0
