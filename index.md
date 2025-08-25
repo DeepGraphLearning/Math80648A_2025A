@@ -29,9 +29,9 @@ team:
 - **Where**:
   - Zoom
 - **Office hour**:
-  - Jian Tang (Instructor): 2:00 - 3:00 PM EST, Friday
-  - Jianan Zhao (TA): 10:00 - 11:00 AM EST, Thursday
-  - Xinyu Yuan (TA): 10:00 - 11:00 AM EST, Friday
+  - Jian Tang (Instructor): TBD
+  - Zhihao Zhan (TA): TBD
+  - Xinyu Yuan (TA): TBD
 - **Discord**:
   - Join the discord for course discussion via [this link]()
 
