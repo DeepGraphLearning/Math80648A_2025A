@@ -33,7 +33,7 @@ team:
   - Zhihao Zhan (TA): TBD
   - Xinyu Yuan (TA): TBD
 - **Discord**:
-  - Join the discord for course discussion via [this link]()
+  - Join the discord for course discussion via [this link](https://discord.gg/NBgrmeYy)
 
 [Jian Tang]: https://jian-tang.com
 
