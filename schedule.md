@@ -62,8 +62,11 @@ schedule:
     presentations:
       - name: ResNet
         url: http://arxiv.org/abs/1512.03385
-      - name: ViT
-        url: https://arxiv.org/abs/2010.11929
+      - name: GRU
+        url: https://arxiv.org/abs/1412.3555
+      - name: DenseNet
+        url: https://arxiv.org/abs/1608.06993
+      
       
   - date: Sep.<br>29
     topics:
@@ -73,20 +76,33 @@ schedule:
       - name: Word2Vec
         url: https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
     presentations:
+      - name: GloVe
+        url: https://aclanthology.org/D14-1162.pdf
       - name: SGNS
         url: https://papers.nips.cc/paper/2014/file/feab05aa91085b7a8012516bc3533958-Paper.pdf
-      - name: GPT-1
-        url: https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
+      
   - date: Oct.<br>6
     topics:
       - name: Attention, Transformers
 #        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
+      - name: The annotated Transformer (blog)
+        url: https://nlp.seas.harvard.edu/annotated-transformer/
       - name: Transformer
         url: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
+      - name: Rotary Position Embedding
+        url: https://arxiv.org/abs/2104.09864
     presentations:
+      - name: Relative Position Embedding
+        url: https://arxiv.org/abs/1803.02155
       - name: RoBERTa
         url: https://arxiv.org/abs/1907.11692
+      - name: ViT
+        url: https://arxiv.org/abs/2010.11929
+      - name: Reformer
+        url: https://arxiv.org/abs/2001.04451
+      - name: FlashAttention
+        url: https://arxiv.org/abs/2205.14135
   - date: Oct.<br>15
     topics:
       - name: No class (Project proposal)
@@ -104,17 +120,29 @@ schedule:
     readings:
       - name: BERT
         url: https://arxiv.org/pdf/1810.04805
+      - name: GPT-1
+        url: https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
       - name: GPT-3
         url: https://arxiv.org/abs/2005.14165
-      - name: Survey of Pre-trained LMs
-        url: https://arxiv.org/pdf/2302.09419
+      - name: LoRA
+        url: https://arxiv.org/abs/2104.09864
+      - name: Scaling Law
+        url: https://arxiv.org/abs/2001.08361
+      - name: GPT in 60 Lines of NumPy
+        url: https://jaykmody.com/blog/gpt-from-scratch/
     presentations:
+      - name: XLNet
+        url: https://arxiv.org/abs/1906.08237
+      - name: UL2
+        url: https://arxiv.org/pdf/2205.05131
       - name: OPT
         url: https://arxiv.org/abs/2205.01068
       - name: PaLM
         url: https://arxiv.org/abs/2204.02311
       - name: LLaMA
         url: https://arxiv.org/abs/2302.13971
+      - name: Survey of Pre-trained LMs
+        url: https://arxiv.org/pdf/2302.09419
     #homeworks:
 #      - name: Huggingface Sentence Classification (Kaggle)
     #  - name: TBD
@@ -126,10 +154,8 @@ schedule:
     readings:
       - name: Chain-of-Thought
         url: https://arxiv.org/pdf/2201.11903
-      - name: Self Consistency
-        url: https://arxiv.org/pdf/2203.11171
-      - name: ReAct
-        url: https://arxiv.org/pdf/2210.03629
+      - name: Prompt Engineering (Blog by Lilian Weng)
+        url: https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
     presentations:
       - name: Prefix-Tuning
         url: https://arxiv.org/abs/2101.00190
@@ -139,6 +165,10 @@ schedule:
         url: https://arxiv.org/abs/2106.09685
       - name: Instruction Tuning
         url: https://arxiv.org/html/2308.10792v5
+      - name: InstructGPT
+        url: https://arxiv.org/abs/2203.02155
+      - name: Automatic Prompt Engineer
+        url: https://arxiv.org/abs/2211.01910
   - date: Nov.<br>17
     topics:
       - name: Generative Models
@@ -148,9 +178,17 @@ schedule:
         url: https://arxiv.org/abs/1406.2661
       - name: VAE
         url: https://arxiv.org/abs/1312.6114
-    presentations:
-      - name: DDPM
+      - name: Evidence Lower Bound ELBO — What & Why (Blog)
+        url: https://yunfanj.com/blog/2021/01/11/ELBO.html
+      - name: Diffusion Probabilistic Model
         url: https://arxiv.org/abs/2006.11239
+    presentations:
+      - name: beta-VAE
+        url: https://openreview.net/pdf?id=Sy2fzU9gl
+      - name: CycleGAN
+        url: https://arxiv.org/pdf/1703.10593
+      - name: Latent Diffusion
+        url: https://arxiv.org/abs/2112.10752
       - name: Stable diffusion
         url: https://arxiv.org/abs/2112.10752
   #- date: Nov.<br>24
@@ -167,17 +205,21 @@ schedule:
       - name: Graph Representation Learning
 #        url: https://www.dropbox.com/s/3e09x5i9wyn8q3c/Week9-Graph-part1.pdf?dl=0
     readings:
-      - name: DeepWalk
-        url: https://arxiv.org/pdf/1403.6652
-      - name: LINE
-        url: https://arxiv.org/pdf/1503.03578
       - name: GCN
         url: https://arxiv.org/pdf/1609.02907
 #      - name: Bayesian Personalized Ranking
 #        url: https://arxiv.org/abs/1205.2618
 #      - name: Factorization Machines
 #        url: https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
+      - name: Graph Neural Networks Implementation Tutorial 
+        url: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial7/GNN_overview.html
     presentations:
+      - name: DeepWalk
+        url: https://arxiv.org/pdf/1403.6652
+      - name: LINE
+        url: https://arxiv.org/pdf/1503.03578
+      - name: GIN
+        url: https://arxiv.org/abs/1810.00826
       - name: Open Graph Benchmark
         url: https://arxiv.org/abs/2005.00687
   - date: Dec.<br>1
