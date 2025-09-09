@@ -79,7 +79,7 @@ schedule:
       - name: GloVe
         url: https://aclanthology.org/D14-1162.pdf
       - name: SGNS
-        url: https://papers.nips.cc/paper/2014/file/feab05aa91085b7a8012516bc3533958-Paper.pdf
+        url: https://papers.nips.cc/paper_files/paper/2014/file/b78666971ceae55a8e87efb7cbfd9ad4-Paper.pdf
       
   - date: Oct.<br>6
     topics:
