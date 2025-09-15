@@ -32,10 +32,10 @@ schedule:
         url: http://www.deeplearningbook.org/contents/optimization.html
   - date: Sep.<br>15
     topics:
-      - name: Introduction to Pytorch
-        url: assets/slides/Pytorch Tutorial 2024A.pdf
+      - name: Introduction to Pytorch [<a href="assets/slides/Pytorch Tutorial 2024A.pdf">En</a>]
+        #url: assets/slides/Pytorch Tutorial 2024A.pdf
       - name: PyTorch part 1
-       url: https://colab.research.google.com/drive/18eGdGZ1x6jQ47l-VgTmPvxPzIDA8KYSA?usp=sharing
+        url: https://colab.research.google.com/drive/18eGdGZ1x6jQ47l-VgTmPvxPzIDA8KYSA?usp=sharing
       - name: PyTorch Part 2
         url: https://colab.research.google.com/drive/1-pCDTNpRGDvQdXUEsoHtYuyl0WgceHEj?usp=sharing
     readings:
