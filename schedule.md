@@ -46,7 +46,7 @@ schedule:
       - name: Dive into Deep Learning
         url: https://github.com/dsgiitr/d2l-pytorch
     homeworks:
-      - name: HW1 (to be announced)
+      - name: HW1 [<a href="assets/hw/Math80600A___hw1.pdf">En</a>]
 #      - name: Instruction
 #        url: https://www.dropbox.com/s/7s19xya7yck4nul/HWK1.pdf?dl=0
 #      - name: Colab
@@ -107,7 +107,7 @@ schedule:
         url: https://arxiv.org/abs/2205.14135
   - date: Oct.<br>15
     topics:
-      - name: No class (Project proposal)
+      - name: No class (Project proposal). Project instruction [<a href="./assets/project/Instructions_on_Course_Projects_Deep_Learning.pdf">En</a>]
     homeworks:
       - name: HW2 (to be announced)
 #        url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
