@@ -53,7 +53,7 @@ schedule:
 #        url: https://colab.research.google.com/drive/1FjRjNlBqPVz7SrEPvqrL10Q76NeHhvJW?usp=sharing
   - date: Sep.<br>22
     topics:
-      - name: Convolutional Neural Networks & Recurrent Neural Networks
+      - name: Convolutional Neural Networks & Recurrent Neural Networks [<a href="assets/slides/Week4-CNN&RNN.pptx">En</a>]
 #        url: https://www.dropbox.com/s/9vnrcjo4ykhdj9l/Week4-CNN%26RNN.pdf?dl=0
     readings:
       - name: Deep Learning Book
