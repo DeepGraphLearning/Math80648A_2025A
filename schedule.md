@@ -72,7 +72,7 @@ schedule:
       
   - date: Sep.<br>29
     topics:
-      - name: Word Representation Learning
+      - name: Word Representation Learning [<a href="assets/slides/Week5-DL4NLP-part1.pptx">En</a>]
 #        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
       - name: Word2Vec
