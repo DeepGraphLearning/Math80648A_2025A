@@ -115,7 +115,7 @@ schedule:
 #        url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
 #      - name: Kaggle
 #        url: https://www.kaggle.com/c/math60630aw21
-  - date: Nov.<br>3
+  - date: Oct.<br>27
     topics:
       - name: Large Language Models I
 #        url: https://www.dropbox.com/s/366364m5gmu6gkd/Week7-DL4NLP-part2.pdf?dl=0
@@ -149,7 +149,7 @@ schedule:
 #      - name: Huggingface Sentence Classification (Kaggle)
     #  - name: TBD
 #        url: https://www.kaggle.com/competitions/sentence-classification-competition/overview
-  - date: Nov.<br>10
+  - date: Nov.<br>3
     topics:
       - name: Large Language Models II - Prompt Tuning
 #        url: https://www.dropbox.com/s/gcd1bu7bxd5gigm/Week8-DL4NLP-part3.pptx?dl=0
@@ -171,7 +171,7 @@ schedule:
         url: https://arxiv.org/abs/2203.02155
       - name: Automatic Prompt Engineer
         url: https://arxiv.org/abs/2211.01910
-  - date: Nov.<br>17
+  - date: Nov.<br>10
     topics:
       - name: Generative Models
 #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
@@ -193,15 +193,15 @@ schedule:
         url: https://arxiv.org/abs/2112.10752
       - name: Stable diffusion
         url: https://arxiv.org/abs/2112.10752
-  #- date: Nov.<br>24
-  #  topics:
-  #    - name: Diffusion, text-to-image generation
+  - date: Nov.<br>17
+    topics:
+      - name: Diffusion, text-to-image generation
 # #       url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
-  #  readings:
-  #    - name: CLIP
-# #       url: https://arxiv.org/abs/2103.00020
-  #    - name: Sora
-# #       url: https://arxiv.org/abs/2201.00123
+    readings:
+      - name: CLIP
+        url: https://arxiv.org/abs/2103.00020
+      - name: Sora
+        url: https://arxiv.org/abs/2201.00123
   - date: Nov.<br>24
     topics:
       - name: Graph Representation Learning
