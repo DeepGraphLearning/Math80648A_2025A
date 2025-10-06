@@ -85,7 +85,7 @@ schedule:
       
   - date: Oct.<br>6
     topics:
-      - name: Attention, Transformers
+      - name: Attention, Transformers [<a href="assets/slides/Week6.pdf">En</a>]
 #        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
       - name: The annotated Transformer (blog)
