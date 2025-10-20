@@ -109,7 +109,7 @@ schedule:
     topics:
       - name: No class (Project proposal). Project instruction [<a href="./assets/project/Instructions_on_Course_Projects_Deep_Learning.pdf">En</a>]
     homeworks:
-      - name: HW2 (to be announced)
+      - name: HW2 [<a href="assets/hw/Math80600A___hw1.pdf">En</a>]
 #        url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
 #      - name: Instruction
 #        url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
