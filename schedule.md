@@ -117,7 +117,7 @@ schedule:
 #        url: https://www.kaggle.com/c/math60630aw21
   - date: Oct.<br>27
     topics:
-      - name: Large Language Models I
+      - name: Large Language Models I [<a href="assets/slides/Week8-DL4NLP-part3.pptx">En</a>]
 #        url: https://www.dropbox.com/s/366364m5gmu6gkd/Week7-DL4NLP-part2.pdf?dl=0
     readings:
       - name: BERT
