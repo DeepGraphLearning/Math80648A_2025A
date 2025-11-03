@@ -151,7 +151,7 @@ schedule:
 #        url: https://www.kaggle.com/competitions/sentence-classification-competition/overview
   - date: Nov.<br>3
     topics:
-      - name: Large Language Models II - Prompt Tuning
+      - name: Large Language Models II - Prompt Tuning [<a href="assets/slides/Week9-DL4NLP-part4.pdf">En</a>]
 #        url: https://www.dropbox.com/s/gcd1bu7bxd5gigm/Week8-DL4NLP-part3.pptx?dl=0
     readings:
       - name: Chain-of-Thought
