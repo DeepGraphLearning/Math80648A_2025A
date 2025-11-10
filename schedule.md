@@ -173,7 +173,7 @@ schedule:
         url: https://arxiv.org/abs/2211.01910
   - date: Nov.<br>10
     topics:
-      - name: Generative Models
+      - name: Generative Models [<a href="./assets/slides/deep-generative-models.pdf">En</a>]
 #        url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
     readings:
       - name: GAN
