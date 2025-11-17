@@ -195,7 +195,7 @@ schedule:
         url: https://arxiv.org/abs/2112.10752
   - date: Nov.<br>17
     topics:
-      - name: Diffusion, text-to-image generation
+      - name: Diffusion, text-to-image generation [<a href="./assets/slides/MML-English.pdf">En</a>]
 # #       url: https://www.dropbox.com/s/nf4ohrqjqg7rb66/Week10-Graph-part2.pdf?dl=0
     readings:
       - name: CLIP
