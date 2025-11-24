@@ -202,7 +202,7 @@ schedule:
         url: https://arxiv.org/abs/2103.00020
       - name: Sora
         url: https://arxiv.org/abs/2201.00123
-  - date: Nov.<br>24
+  - date: Nov.<br>24 [<a href="./assets/slides/Week12-Graph-English.pdf">En</a>]
     topics:
       - name: Graph Representation Learning
 #        url: https://www.dropbox.com/s/3e09x5i9wyn8q3c/Week9-Graph-part1.pdf?dl=0
