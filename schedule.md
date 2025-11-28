@@ -226,7 +226,7 @@ schedule:
         url: https://arxiv.org/abs/2005.00687
   - date: Dec.<br>1
     topics:
-      - name: Modern Generative Models [<a href="./assets/slides/slides_generatifs.pdf">En</a>]
+      - name: Poster Session
 #   
 
 ---
